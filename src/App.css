@@ -1,0 +1,61 @@
+
+.main_dev {
+  position: relative;
+ 
+ /* top: -700px; */
+
+}
+.div1 {
+  margin-left: 300px;
+}
+
+.div2 {
+  margin-left: 20px;
+  
+}
+
+.sidebardiv {
+  display: flex;
+  flex-direction: column;
+  width: 35vh;
+  background-color: rgb(229, 241, 241);
+
+}
+.container1{
+  text-decoration: "none";
+  width: 100;
+}
+.me-auto1{
+  text-decoration: "none";
+}
+.mainCard{
+  background-color: rgb(166, 224, 224);
+  margin-top: 100px;
+}
+
+.cardBody{
+  height: 400px;
+}
+
+H1{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif ;
+}
+.btn-lgin{
+  background-color: blue;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+ 
+.top{
+  margin-top: vh;
+}
+}
+
+
+.cl{
+  border:2px solid black;
+}
